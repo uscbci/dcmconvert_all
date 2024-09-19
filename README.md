@@ -1,5 +1,10 @@
 # Scripts to batch run gears on Flywheel
 
+To run these scripts, you must have the [https://flywheel-io.gitlab.io/product/backend/sdk/tags/19.1.0/python/getting_started.html#installation](Flywheel python api) installed. 
+You can install the flywheel api with the following command: 
+
+`pip install flywheel-sdk`
+
 ## classify_all.py
 Runs the scitran classifier gear on all the acquisitions within a session. This gear can be a pre-requisite for alter gears like the mriqc gear. 
 
