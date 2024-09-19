@@ -29,5 +29,3 @@ Usage:
 
 - api key file: this is a text file that contains your api key. Make one on Flywheel by clicking on your profile.
 
-
- 
