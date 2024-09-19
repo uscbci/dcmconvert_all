@@ -1,6 +1,6 @@
-#Scripts to batch run gears on Flywheel
+# Scripts to batch run gears on Flywheel
 
-##classify_all.py
+## classify_all.py
 Runs the scitran classifier gear on all the acquisitions within a session. This gear can be a pre-requisite for alter gears like the mriqc gear. 
 
 Usage: 
@@ -12,7 +12,7 @@ Usage:
 
 - api key file: this is a text file that contains your api key. Make one on Flywheel by clicking on your profile
 
-##dcmconvert_all.py
+## dcmconvert_all.py
 Runs the dcm2niix gear on all the acquisitions within a session. 
 
 Usage: 
