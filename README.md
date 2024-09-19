@@ -15,7 +15,7 @@ Usage:
 - full path to session: this should be in the format of group/subject/session
     e.g. jtkaplan/SUB01/Kaplan^Moviescans
 
-- api key file: this is a text file that contains your api key. Make one on Flywheel by clicking on your profile
+- api key file: this is a text file that contains your api key. Make one on Flywheel by clicking on your profile.
 
 ## dcmconvert_all.py
 Runs the dcm2niix gear on all the acquisitions within a session. 
@@ -27,7 +27,7 @@ Usage:
 - full path to session: this should be in the format of group/subject/session
     e.g. jtkaplan/SUB01/Kaplan^Moviescans
 
-- api key file: this is a text file that contains your api key. Make one on Flywheel by clicking on your profile
+- api key file: this is a text file that contains your api key. Make one on Flywheel by clicking on your profile.
 
 
 
