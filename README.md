@@ -1,6 +1,6 @@
 # Scripts to batch run gears on Flywheel
 
-To run these scripts, you must have the [https://flywheel-io.gitlab.io/product/backend/sdk/tags/19.1.0/python/getting_started.html#installation](Flywheel python api) installed. 
+To run these scripts, you must have the [Flywheel python api](https://flywheel-io.gitlab.io/product/backend/sdk/tags/19.1.0/python/getting_started.html#installation) installed. 
 You can install the flywheel api with the following command: 
 
 `pip install flywheel-sdk`
